@@ -1,0 +1,25 @@
+
+.header-background{
+    /* margin-top: 2rem; */
+    height: 75vh; 
+    width: 100vw;
+    border: 3px solid black;
+}
+.profile-picture{
+    border-radius: 50%;
+    height: 20rem;
+    width: 20rem;
+    margin-top: -10rem;
+    border: 3px solid black;
+}
+.detailsofUserAccount{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* border: 2px solid rgb(128, 0, 0); */
+    box-shadow: 3px 5px 17px black;
+    width: 98%;
+    padding: 2rem;
+    border-radius: 10px;
+}

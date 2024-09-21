@@ -1,0 +1,13 @@
+.editAccountDetailsClass{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.editfield{
+    padding: 1rem;
+    border: 2px solid black;
+    width: 100%;
+    margin: 2px;
+}

@@ -64,11 +64,5 @@ Ensure you have the following installed on your machine:
 - **Image Upload and Deletion in the Gallery**
 - **Update User Profile Details** (avatar, cover image, password, full name, email)
 
-## Screenshots
-
-### Homepage of the Website
-![Homepage Screenshot](./path_to_image)
-
-Explore the joy of showcasing your memories!
 
 
